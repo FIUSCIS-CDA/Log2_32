@@ -1,7 +1,7 @@
 // Testbench for log2 module
 //`timescale 1ns/1ps
 
-module log2_tb;
+module testbench;
     // Inputs
     reg [31:0] A;
     

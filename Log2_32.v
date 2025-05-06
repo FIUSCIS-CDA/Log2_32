@@ -15,7 +15,7 @@
 
 // PROGRAM		"Quartus Prime"
 // VERSION		"Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition"
-// CREATED		"Sun Apr 27 16:27:16 2025"
+// CREATED		"Tue May 06 09:28:54 2025"
 
 module Log2_32(
 	A,
